@@ -1,5 +1,5 @@
 <h1> Hi how did you get here? ;P</h1>
-<p style="color:#f03c15;">I deal as a hobby and more and more professionally creating websites and modules in <b>Web Technologies</b>. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.</p>
+<p style="color:[#f03c15]">I deal as a hobby and more and more professionally creating websites and modules in <b>Web Technologies</b>. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.</p>
 
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
