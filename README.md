@@ -14,7 +14,7 @@
 <p align="center"><b>Not all my projects are public, but I want to show you my websites-portfolio:</b></br></br></p>
 Here you got site was built by me using <a href="https://matty8313.github.io/Portfolio/">React.JS</a></br>
 And here you got my one of the new code example <a href="https://github.com/Matty8313/TableKanbanBetter/blob/main/ToDo.js">KanbanTable</a></br></br>
-
+<p align="center"><img src="https://freesvg.org/img/1486641506.png" height="100px" width="auto"></p>
 And ⚡ Fun fact <b>below</b>:
 ```javascript
 function Happy(){
