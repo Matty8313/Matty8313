@@ -1,23 +1,26 @@
 <h1 onmouseover="color();">Hi how did you get here? ;P</h1>
-<p>I deal as a hobby and more and more professionally creating websites and modules in **Web Technologies**. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.</p>
+<p>I deal as a hobby and more and more professionally creating websites and modules in <b>Web Technologies</b>. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.</p>
 
-**Web Technologies**
+<p align="center"><b>Web Technologies</b></p>
 
-**Like this**:
-+ HTML
-+ CSS
-+ JavaScript
-+ React.js 
+<p lign="center"><b ><h3>Like this:</h3></b></p>
+<p lign="center">HTML</p>
+<p lign="center">CSS</br></p>
+<p lign="center">JavaScript</br></p>
+<p lign="center">React.js </br></p>
+<p lign="center">Lerning REST.API</br></p>
 
 
-**Not all my projects are public, but I want to show you my websites-portfolio:**
-Here you got site was built by me using [React.js](https://matty8313.github.io/Portfolio/)
+<p align="center"><b>Not all my projects are public, but I want to show you my websites-portfolio:</b></br></br></p>
+Here you got site was built by me using <a href="https://matty8313.github.io/Portfolio/">React.JS</a></br>
+And here you got my one of the new code example <a href="https://github.com/Matty8313/TableKanbanBetter/blob/main/ToDo.js">KanbanTable</a></br></br>
 
+And ⚡ Fun fact <b>below</b>:
 ```javascript
 function Happy(){
-  for(let i; i < Infinity; i++){
-  document.getElementById(ToEVERYBODY).innerWorld = "Dont try make happy EVERYBODY"}
-  }
+  for(let ToEverybody = 1; ToEverybody < Infinity; ToEverybody++){
+  document.getElementById("GoodMood").innerWorld = "Dont try make happy EVERYBODY"}
+  if(They dont want){} //you know "if" ;)
 }
 ```
 
