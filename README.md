@@ -1,10 +1,19 @@
-<h1> Hi how did you get here? ;P</h1>
-<p style="color:[#f03c15]">I deal as a hobby and more and more professionally creating websites and modules in <b>Web Technologies</b>. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.</p>
+# Hi how did you get here? ;P</h1>
+I deal as a hobby and more and more professionally creating websites and modules in **Web Technologies**. I have already created some interesting projects, and some of them, such as KanbanTable, are on my github and you can see them. I'm going towards creating web applications that are interactive.
+
+**Web Technologies**
+
+**Like this**:
++ HTML
++ CSS
++ JavaScript
++ React.js 
 
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+**Not all my projects are public, but I want to show you my websites-portfolio:**
++ This site was built by me using [React.js](https://matty8313.github.io/Portfolio/)
+
+
 
 <!--
 **Matty8313/Matty8313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<h1> TEST </h1>
 -->
