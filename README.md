@@ -14,8 +14,12 @@
 <p align="center"><b>Not all my projects are public, but I want to show you my websites-portfolio:</b></br></br></p>
 Here you got site was built by me using <a href="https://matty8313.github.io/Portfolio/">React.JS</a></br>
 And here you got my one of the new code example <a href="https://github.com/Matty8313/TableKanbanBetter/blob/main/ToDo.js">KanbanTable</a></br></br>
-<p align="center"><img src="https://freesvg.org/img/1486641506.png" height="100px" width="auto"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height="100px" width="auto">
+<img src="https://freesvg.org/img/1486641506.png" height="100px" width="auto">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" height="100px" width="auto">
+</p>
 And ⚡ Fun fact <b>below</b>:
+
 ```javascript
 function Happy(){
   for(let ToEverybody = 1; ToEverybody < Infinity; ToEverybody++){
